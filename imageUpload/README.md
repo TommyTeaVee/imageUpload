@@ -28,3 +28,4 @@ https://github.com/TommyTeaVee/imageUpload/blob/master/imageUpload/frontend/angu
 
 This completes the frontend part of the code to send the file to backend. Now let’s look at how to write the Api using ‘Multer’ in NodeJs to store the File in the server.
 https://github.com/TommyTeaVee/imageUpload/blob/master/imageUpload/frontend/angular/1_-Y71msd3XVp6Q4c9BnhWQw.png
+
