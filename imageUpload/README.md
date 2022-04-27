@@ -4,11 +4,11 @@ this is a simple crud working with images just to test Postgres with Multer . No
 # NB do not forget to insert the database schema file to make way for file storage
 this is an API endpoint to insert the single file
 http://localhost:5050/upload/upload-single-image
-https://github.com/TommyTeaVee/imageUpload/blob/fee2f0a97c781b2d160121e5439bfd0c3393cb7f/imageUpload/images/Screenshot%202022-04-27%20at%2002.29.54.png
+![alt text] https://github.com/TommyTeaVee/imageUpload/blob/fee2f0a97c781b2d160121e5439bfd0c3393cb7f/imageUpload/images/Screenshot%202022-04-27%20at%2002.29.54.png
 
 - this is an endpoint for inserting multiple files
 http://localhost:5050/upload/upload-multiple-image
-https://github.com/TommyTeaVee/imageUpload/blob/fee2f0a97c781b2d160121e5439bfd0c3393cb7f/imageUpload/images/Screenshot%202022-04-27%20at%2002.38.38.png
+![alt text] https://github.com/TommyTeaVee/imageUpload/blob/fee2f0a97c781b2d160121e5439bfd0c3393cb7f/imageUpload/images/Screenshot%202022-04-27%20at%2002.38.38.png
 
 # PGAdmin
 https://github.com/TommyTeaVee/imageUpload/blob/fee2f0a97c781b2d160121e5439bfd0c3393cb7f/imageUpload/images/Screenshot%202022-04-27%20at%2002.44.36.png
